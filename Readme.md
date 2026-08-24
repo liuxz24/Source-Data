@@ -1,4 +1,3 @@
-markdown
 # Source Data for *Tellurium-Assisted Rapid Synthesis of Violet Phosphorus via Solid-Phase Thermal Transformation*
 
 This repository contains the source data supporting the findings of our manuscript. All data are organized to facilitate the reproduction and extension of the figures and computational results presented in the paper.
