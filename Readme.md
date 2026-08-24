@@ -3,26 +3,6 @@ markdown
 
 This repository contains the source data supporting the findings of our manuscript. All data are organized to facilitate the reproduction and extension of the figures and computational results presented in the paper.
 
-## Repository Structure
-/
-├── Source_Data_for_Figures/ # Raw data for all figures
-│ ├── Figure_1.xlsx # Source data for Figure 1
-│ ├── Figure_2.xlsx # Source data for Figure 2
-│ ├── Figure_3.xlsx # Source data for Figure 3
-│ ├── Figure_4.xlsx # Source data for Figure 4
-│ └── Figure_5.xlsx # Source data for Figure 5
-│
-└── VASP/ # Input and output files for DFT calculations
-├── WP/ # Calculations for WP (with different basis sets)
-├── FP/ # Calculations for FP (with different basis sets)
-├── VP/ # Calculations for VP (with different basis sets)
-├── Te/ # Calculations for Te (with different basis sets)
-├── FP-Te/ # FP-Te under PBE-DFTD3
-├── FP-vac/ # FP-vac under PBE-DFTD3
-├── VP-Te/ # VP-Te under PBE-DFTD3
-├── VP-vac/ # VP-vac under PBE-DFTD3
-└── Te-vac/ # Te-vac under PBE-DFTD3
-
 ## Figure Source Data
 
 The `Source_Data_for_Figures/` folder contains five Microsoft Excel files, each corresponding to the raw data for **Fig. 1–5** in the main text.
